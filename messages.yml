@@ -1,0 +1,21 @@
+plugin-prefix: '&a[NEZARIA LOBBY]'
+consoles-worlds-enabled: 'Liste des mondes active :'
+modules-activated:
+  invincible: '&1 invinsible on'
+  anti-faim: '&1 modules anti-faim active'
+  spawn-on-join: '&1 module spawn on join active'
+  anti-grief: '&1 module anti grief active'
+  gamemode-on-join: '&1 module gamemode on join active'
+  weather-clear: '&1 module weather clear active'
+  spawn: '&1 module spawn active'
+  anti-item-drop: '&1 module anti drop item active'
+  fly: '&1 module fly active'
+  scoreboard: '&1 module scoreboard'
+  antifall: '&1 module antifall on'
+  
+command-reply:
+  build-mode-on: '&cVous pouvez construire'
+  build-mode-off: '&cVous ne pouvez plus contruire'
+  fly-no-permission: '&e Vous ne pouvez pas faire ceci'
+  fly-mode-on: '&e Vous pouvez voler'
+  fly-mode-off: '&e Vous ne pouvez plus voler'

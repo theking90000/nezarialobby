@@ -1,0 +1,26 @@
+enabledworld:
+- "world"
+modules:
+  spawn: true
+  anti-faim: true
+  invincible: true
+  spawn-on-join: true
+  anti-grief: true
+  #antigrief must be enabled
+  anti-move-item: true
+  anti-item-drop: true
+  change-gamemode-on-join: true
+  weather-clear: true
+  fly: true
+  scoreboard: true
+  antifall: true
+location:
+  spawn:
+    set: false
+    x:
+    y:
+    z:
+    pitch:
+    yaw:
+    world:
+ 

@@ -1,0 +1,5 @@
+scoreboard-name: 'Welcome'
+scoreboard-content:
+- 'Players : {players}/{max}'
+- 'welcome !'
+update-placeholders: 20

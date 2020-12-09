@@ -1,0 +1,15 @@
+name: NezariaLobby
+version: 0.1
+author: theking90000
+main: be.theking90000.nezarialobby.Main
+softdepend: [PlaceholderAPI]
+commands:
+  spawn:
+    permission: nezaria.spawn.use
+  setspawn:
+    permission: nezarialobby.spawn.set
+    description: Mettre le spawn
+  edit:
+    permission: nezarialobby.edit
+  fly:
+    permission: nezarialobby.fly
